@@ -29,7 +29,7 @@
 @media (min-width: 992px) {
   .wrapper .content .list-item {
       margin:0px;
-      width:calc(100% / 3);
+      width:calc(100% / 2);
   }
 }
 .wrapper .content .list-item .image{
